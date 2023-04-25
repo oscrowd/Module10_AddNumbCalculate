@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading;
 using System.Threading.Tasks;
 
-namespace Module9_AddNumbCalculate
+namespace Module10_AddNumbCalculate
 {
     public class FormatErrors : IErrors
     {
